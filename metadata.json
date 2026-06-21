@@ -1,0 +1,6 @@
+{
+  "name": "Kids Story Reader and Illustrator",
+  "description": "An interactive storybook generator for kids that reads stories aloud using text-to-speech and generates vibrant illustrations for each page, complete with a story chatbot buddy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
